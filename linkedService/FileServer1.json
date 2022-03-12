@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "E:\\Data",
-			"userId": "prayanks18@gmail.com",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkZDdhOTNiOS01Mzk4LTQwNzUtYmRkNy02MWZlNjY4NzZhNGYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "desktop-rgigsfq\\prayan",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlODg1ZDEwNC1mNWQ0LTRkNGEtYjZkOS1iMDI5NTFlZjc1ZDgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
