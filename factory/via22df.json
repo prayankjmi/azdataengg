@@ -1,0 +1,9 @@
+{
+	"name": "via22df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71c507dd-2a2d-4127-a1d3-78aff993695a",
+		"tenantId": "8ecbf9e6-d7d4-4e5a-b4e7-6c4b22d54538"
+	}
+}
