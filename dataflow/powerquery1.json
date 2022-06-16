@@ -1,0 +1,26 @@
+{
+	"name": "powerquery1",
+	"properties": {
+		"type": "WranglingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"name": "dateList",
+					"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~>  dateList",
+					"dataset": {
+						"referenceName": "dateList",
+						"type": "DatasetReference"
+					}
+				},
+				{
+					"name": "outbound",
+					"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false,\n\tignoreNoFilesFound: false) ~>  outbound",
+					"dataset": {
+						"referenceName": "outbound",
+						"type": "DatasetReference"
+					}
+				}
+			]
+		}
+	}
+}
